@@ -1,0 +1,31 @@
+body {
+ background-image: url("achtergrond.jpg");
+}
+#content{
+    color: black;
+}
+#opgaves{
+    color:yellow;
+}
+#myAssignment{
+    color: blue;
+}
+#feedback{
+    color: lightslategrey;
+}
+#wrapper{
+    text-align: center;
+    font-size: 39px;
+}
+#GoedStyle{
+    color: limegreen;
+}
+#FoutStyle{
+    color: red;
+}
+#Goed{
+    color: limegreen;
+}
+#Fout{
+    color: red;
+}
